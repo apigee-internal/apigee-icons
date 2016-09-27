@@ -1,0 +1,32 @@
+{
+    "analyze": true,
+    "author": "Brandon Shelley <brandon@apigee.com>",
+    "bin": {
+        "module-name": "./bin/module-name"
+    },
+    "bugs": {
+        "url": "https://github.com/nodejitsu/browsenpm.org/issues"
+    },
+    "contributors": [
+        {
+            "email": "brandon@apigee.com",
+            "name": "Brandon Shelley"
+        },
+        {
+            "email": "ichung@apigee.com",
+            "name": "In Chung"
+        },
+        {
+            "email": "jeremy@apigee.com",
+            "name": "Jeremy Anticouni"
+        }
+    ],
+    "description": "A library of icon fonts for Apigee Edge",
+    "license": "MIT",
+    "name": "apigee-icons",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/apigee-internal/icons"
+    },
+    "version": "1.0.0"
+}
