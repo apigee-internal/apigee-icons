@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"apigee-icons";
-	src:url("../fonts/apigee-icons.eot?fc3861cc8bd5f57c71b3490936320c5a");
+	src:url("../fonts/apigee-icons.eot?1bc7ce7c93e5dc81e5fb1220cf33b35b");
 	src:url("../fonts/apigee-icons.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/apigee-icons.woff?fc3861cc8bd5f57c71b3490936320c5a") format("woff"),
-		url("../fonts/apigee-icons.ttf?fc3861cc8bd5f57c71b3490936320c5a") format("truetype");
+		url("../fonts/apigee-icons.woff?1bc7ce7c93e5dc81e5fb1220cf33b35b") format("woff"),
+		url("../fonts/apigee-icons.ttf?1bc7ce7c93e5dc81e5fb1220cf33b35b") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -172,71 +172,76 @@
 }
 
 
-.apic-search:before {
+.apic-search-sm:before {
 	content:"\f11d";
 }
 
 
-.apic-shared-sm:before {
+.apic-search:before {
 	content:"\f11e";
 }
 
 
-.apic-shared:before {
+.apic-shared-sm:before {
 	content:"\f11f";
 }
 
 
-.apic-sort-asc-sm:before {
+.apic-shared:before {
 	content:"\f120";
 }
 
 
-.apic-sort-desc-sm:before {
+.apic-sort-asc-sm:before {
 	content:"\f121";
 }
 
 
-.apic-spec-doc:before {
+.apic-sort-desc-sm:before {
 	content:"\f122";
 }
 
 
-.apic-spec-folder:before {
+.apic-spec-doc:before {
 	content:"\f123";
 }
 
 
-.apic-support:before {
+.apic-spec-folder:before {
 	content:"\f124";
 }
 
 
-.apic-team-alt:before {
+.apic-support:before {
 	content:"\f125";
 }
 
 
-.apic-team:before {
+.apic-team-alt:before {
 	content:"\f126";
 }
 
 
-.apic-trace:before {
+.apic-team:before {
 	content:"\f127";
 }
 
 
-.apic-user-edit:before {
+.apic-trace:before {
 	content:"\f128";
 }
 
 
-.apic-user:before {
+.apic-user-edit:before {
 	content:"\f129";
 }
 
 
-.apic-warning-sm:before {
+.apic-user:before {
 	content:"\f12a";
+}
+
+
+.apic-warning-sm:before {
+	content:"\f12b";
 }
