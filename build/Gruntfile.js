@@ -10,7 +10,7 @@ module.exports = function(grunt) {
                     force: true
                 },
                 src: [
-                    path.join(dst, 'svg/*.svg')
+                    path.join(dst, 'svg/*')
                 ]
             }
         },
@@ -47,7 +47,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-webfont');
     grunt.loadNpmTasks('grunt-shell');
 
-    grunt.registerTask('all', [ 'clean', 'shell', 'webfont:icons' ]);
+    grunt.registerTask('all', [ 'clean:icons', 'shell', 'webfont:icons' ]);
     grunt.registerTask('font-only', [ 'webfont:icons' ]);
 
 };
