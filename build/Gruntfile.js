@@ -10,7 +10,7 @@ module.exports = function(grunt) {
                     force: true
                 },
                 src: [
-                    path.join(src, 'svg/*.svg')
+                    path.join(dst, 'svg/*.svg')
                 ]
             }
         },
