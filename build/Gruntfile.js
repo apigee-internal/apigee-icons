@@ -35,6 +35,7 @@ module.exports = function(grunt) {
                     destHtml: path.join(dst, 'preview/'),
                     htmlDemoTemplate: 'template.html',
                     templateOptions: {
+                        baseClass: 'apic-icon',
                         classPrefix: 'apic-'
                     },
                     engine: 'node',
