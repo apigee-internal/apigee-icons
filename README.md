@@ -1,10 +1,12 @@
 #Apigee Icons
 
-###This library contains icon fonts used in the Apigee platform.
+###Disclaimer
 
 Use of these icon fonts is intended for use with internal Apigee build systems, and is not intended for public consumption, distribution, or sale. You may not sub-license, re-sell, rent, lend, assign, gift or otherwise transfer or distribute the icons or the rights granted under this license (even for free).
 
-To use, an `@font-face` declaration will be required in your CSS, similar to the following:
+###Usage
+
+Include source font files and CSS in your project, then add an `@font-face` declaration to your CSS, similar to the following:
 
 ```
 @font-face {
@@ -17,6 +19,10 @@ To use, an `@font-face` declaration will be required in your CSS, similar to the
 	font-style:normal;
 }
 ```
+
+###Support
+
+This is an open-source project of the Apigee Corporation. It is not covered by Apigee support contracts. However, we will support you as best we can. For help, please open an issue in this GitHub project. You are also always welcome to submit a pull request.
 
 - - -
 
