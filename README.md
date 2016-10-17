@@ -4,6 +4,15 @@
 
 Use of these icon fonts is intended for use with internal Apigee build systems, and is not intended for public consumption, distribution, or sale. You may not sub-license, re-sell, rent, lend, assign, gift or otherwise transfer or distribute the icons or the rights granted under this license (even for free).
 
+###Icons Index
+
+You can preview available icons from here: https://apigee-internal.github.io/apigee-icons-build/
+_Note:_ This is a preview of the latest commit and may not accurately reflect previous versions of this icons repo.
+
+###Icon requests
+
+Please open an issue in this repo and use the `:new-icon-request:` tag.
+
 ###Usage
 
 Include source font files and CSS in your project, then add an `@font-face` declaration to your CSS, similar to the following:
@@ -18,6 +27,12 @@ Include source font files and CSS in your project, then add an `@font-face` decl
 	font-weight:normal;
 	font-style:normal;
 }
+```
+
+Then select an icon from the icons index page, and include the appropriate markup where you need to use the icon:
+
+```
+<i class="apic-icon apic-name"></i>
 ```
 
 ###Support
