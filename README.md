@@ -6,8 +6,7 @@ Use of these icon fonts is intended for use with internal Apigee build systems, 
 
 ###Icons Index
 
-You can preview available icons from here: https://apigee-internal.github.io/apigee-icons-build/
-_Note:_ This is a preview of the latest commit and may not accurately reflect previous versions of this icons repo.
+You can preview available icons from here: https://apigee-internal.github.io/apigee-icons-build/. This is a preview of the *latest* commit and may not accurately reflect previous versions of this icons repo.
 
 ###Icon requests
 

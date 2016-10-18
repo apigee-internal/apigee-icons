@@ -37,17 +37,17 @@
 }
 
 
-.apic-api-doc:before {
+.apic-api-product-sm:before {
 	content:"\f104";
 }
 
 
-.apic-api-proxy:before {
+.apic-api-product:before {
 	content:"\f105";
 }
 
 
-.apic-chevron-breadcrumb-sm:before {
+.apic-api-proxy:before {
 	content:"\f106";
 }
 
@@ -112,191 +112,231 @@
 }
 
 
-.apic-doc-json:before {
+.apic-doc-api:before {
 	content:"\f113";
 }
 
 
-.apic-doc-spec:before {
+.apic-doc-json:before {
 	content:"\f114";
 }
 
 
-.apic-duplicate-sm:before {
+.apic-doc-xml:before {
 	content:"\f115";
 }
 
 
-.apic-edit-sm:before {
+.apic-duplicate-sm:before {
 	content:"\f116";
 }
 
 
-.apic-exclamation-mark-sm:before {
+.apic-edit-sm:before {
 	content:"\f117";
 }
 
 
-.apic-file-edit-sm:before {
+.apic-exclamation-mark-sm:before {
 	content:"\f118";
 }
 
 
-.apic-folder-spec:before {
+.apic-file-edit-sm:before {
 	content:"\f119";
 }
 
 
-.apic-indent:before {
+.apic-folder-spec:before {
 	content:"\f11a";
 }
 
 
-.apic-info-sm:before {
+.apic-indent:before {
 	content:"\f11b";
 }
 
 
-.apic-learn:before {
+.apic-info-sm:before {
 	content:"\f11c";
 }
 
 
-.apic-love:before {
+.apic-learn-hat-sm:before {
 	content:"\f11d";
 }
 
 
-.apic-monetization:before {
+.apic-learn-hat:before {
 	content:"\f11e";
 }
 
 
-.apic-monitor:before {
+.apic-learn:before {
 	content:"\f11f";
 }
 
 
-.apic-more-sm:before {
+.apic-love:before {
 	content:"\f120";
 }
 
 
-.apic-more:before {
+.apic-megaphone-sm:before {
 	content:"\f121";
 }
 
 
-.apic-operate:before {
+.apic-megaphone:before {
 	content:"\f122";
 }
 
 
-.apic-outdent:before {
+.apic-monetization:before {
 	content:"\f123";
 }
 
 
-.apic-performance:before {
+.apic-monitor:before {
 	content:"\f124";
 }
 
 
-.apic-placeholder:before {
+.apic-more-sm:before {
 	content:"\f125";
 }
 
 
-.apic-plus:before {
+.apic-more:before {
 	content:"\f126";
 }
 
 
-.apic-publish:before {
+.apic-operate:before {
 	content:"\f127";
 }
 
 
-.apic-save-sm:before {
+.apic-outdent:before {
 	content:"\f128";
 }
 
 
-.apic-search-sm:before {
+.apic-performance:before {
 	content:"\f129";
 }
 
 
-.apic-search:before {
+.apic-placeholder:before {
 	content:"\f12a";
 }
 
 
-.apic-shared-sm:before {
+.apic-plus:before {
 	content:"\f12b";
 }
 
 
-.apic-shared:before {
+.apic-publish:before {
 	content:"\f12c";
 }
 
 
-.apic-sort-asc-sm:before {
+.apic-save-sm:before {
 	content:"\f12d";
 }
 
 
-.apic-sort-desc-sm:before {
+.apic-search-sm:before {
 	content:"\f12e";
 }
 
 
-.apic-spec-doc:before {
+.apic-search:before {
 	content:"\f12f";
 }
 
 
-.apic-spec-json:before {
+.apic-shared-sm:before {
 	content:"\f130";
 }
 
 
-.apic-support:before {
+.apic-shared:before {
 	content:"\f131";
 }
 
 
-.apic-team-alt:before {
+.apic-snapshot-sm:before {
 	content:"\f132";
 }
 
 
-.apic-team:before {
+.apic-sort-asc-sm:before {
 	content:"\f133";
 }
 
 
-.apic-trace:before {
+.apic-sort-desc-sm:before {
 	content:"\f134";
 }
 
 
-.apic-user-edit-sm:before {
+.apic-support:before {
 	content:"\f135";
 }
 
 
-.apic-user-edit:before {
+.apic-team-alt:before {
 	content:"\f136";
 }
 
 
-.apic-user:before {
+.apic-team:before {
 	content:"\f137";
 }
 
 
-.apic-warning-sm:before {
+.apic-trace-sm:before {
 	content:"\f138";
+}
+
+
+.apic-trace:before {
+	content:"\f139";
+}
+
+
+.apic-user-edit-sm:before {
+	content:"\f13a";
+}
+
+
+.apic-user-edit:before {
+	content:"\f13b";
+}
+
+
+.apic-user:before {
+	content:"\f13c";
+}
+
+
+.apic-visibility-sm:before {
+	content:"\f13d";
+}
+
+
+.apic-warning-sm:before {
+	content:"\f13e";
+}
+
+
+.apic-wrench-sm:before {
+	content:"\f13f";
+}
+
+
+.apic-wrench:before {
+	content:"\f140";
 }
