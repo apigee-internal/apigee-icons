@@ -42,7 +42,7 @@ This is an open-source project of the Apigee Corporation. It is not covered by A
 
 ###License
 
-Copyright 2016 Apigee Corporation
+Copyright 2017 Apigee Corporation
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
