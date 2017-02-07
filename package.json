@@ -16,6 +16,10 @@
         {
             "email": "jeremy@apigee.com",
             "name": "Jeremy Anticouni"
+        },
+        {
+            "email": "mmoss@apigee.com",
+            "name": "Mike Moss"
         }
     ],
     "description": "A library of icon fonts for Apigee Edge",
@@ -25,5 +29,5 @@
         "type": "git",
         "url": "https://github.com/apigee-internal/apigee-icons"
     },
-    "version": "1.0.7"
+    "version": "1.0.8"
 }
