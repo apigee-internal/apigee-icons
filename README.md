@@ -34,6 +34,12 @@ Then select an icon from the icons index page, and include the appropriate marku
 <i class="apic-icon apic-name"></i>
 ```
 
+###Contributing
+
+Internal contributors can copy updated /css and /fonts folders to this repo and send in a pull request. Please ensure you _delete_ the previous folders before copying over new ones.
+
+The PR approver will then add a version tag to the successful merge and publish a new release.
+
 ###Support
 
 This is an open-source project of the Apigee Corporation. It is not covered by Apigee support contracts. However, we will support you as best we can. For help, please open an issue in this GitHub project. You are also always welcome to submit a pull request.
