@@ -367,211 +367,216 @@
 }
 
 
-.apic-outdent:before {
+.apic-organization-xl:before {
 	content:"\f146";
 }
 
 
-.apic-padlock-sm:before {
+.apic-outdent:before {
 	content:"\f147";
 }
 
 
-.apic-performance:before {
+.apic-padlock-sm:before {
 	content:"\f148";
 }
 
 
-.apic-placeholder:before {
+.apic-performance:before {
 	content:"\f149";
 }
 
 
-.apic-plus:before {
+.apic-placeholder:before {
 	content:"\f14a";
 }
 
 
-.apic-portal-lg:before {
+.apic-plus:before {
 	content:"\f14b";
 }
 
 
-.apic-portal-sm:before {
+.apic-portal-lg:before {
 	content:"\f14c";
 }
 
 
-.apic-portal-xl:before {
+.apic-portal-sm:before {
 	content:"\f14d";
 }
 
 
-.apic-portal:before {
+.apic-portal-xl:before {
 	content:"\f14e";
 }
 
 
-.apic-power-on-lg:before {
+.apic-portal:before {
 	content:"\f14f";
 }
 
 
-.apic-publish-lg:before {
+.apic-power-on-lg:before {
 	content:"\f150";
 }
 
 
-.apic-publish-xl:before {
+.apic-publish-lg:before {
 	content:"\f151";
 }
 
 
-.apic-publish:before {
+.apic-publish-xl:before {
 	content:"\f152";
 }
 
 
-.apic-refresh-sm:before {
+.apic-publish:before {
 	content:"\f153";
 }
 
 
-.apic-remove-sm:before {
+.apic-refresh-sm:before {
 	content:"\f154";
 }
 
 
-.apic-rename-sm:before {
+.apic-remove-sm:before {
 	content:"\f155";
 }
 
 
-.apic-save-sm:before {
+.apic-rename-sm:before {
 	content:"\f156";
 }
 
 
-.apic-search-sm:before {
+.apic-save-sm:before {
 	content:"\f157";
 }
 
 
-.apic-search:before {
+.apic-search-sm:before {
 	content:"\f158";
 }
 
 
-.apic-security-xl:before {
+.apic-search:before {
 	content:"\f159";
 }
 
 
-.apic-shared-sm:before {
+.apic-security-xl:before {
 	content:"\f15a";
 }
 
 
-.apic-shared:before {
+.apic-shared-sm:before {
 	content:"\f15b";
 }
 
 
-.apic-snapshot-sm:before {
+.apic-shared:before {
 	content:"\f15c";
 }
 
 
-.apic-sort-asc-sm:before {
+.apic-snapshot-sm:before {
 	content:"\f15d";
 }
 
 
-.apic-sort-desc-sm:before {
+.apic-sort-asc-sm:before {
 	content:"\f15e";
 }
 
 
-.apic-stage-bundle-config-xl:before {
+.apic-sort-desc-sm:before {
 	content:"\f15f";
 }
 
 
-.apic-support:before {
+.apic-stage-bundle-config-xl:before {
 	content:"\f160";
 }
 
 
-.apic-team-alt-lg:before {
+.apic-support:before {
 	content:"\f161";
 }
 
 
-.apic-team-alt-xl:before {
+.apic-team-alt-lg:before {
 	content:"\f162";
 }
 
 
-.apic-team-alt:before {
+.apic-team-alt-xl:before {
 	content:"\f163";
 }
 
 
-.apic-team:before {
+.apic-team-alt:before {
 	content:"\f164";
 }
 
 
-.apic-themes-xl:before {
+.apic-team:before {
 	content:"\f165";
 }
 
 
-.apic-toolbox-sm:before {
+.apic-themes-xl:before {
 	content:"\f166";
 }
 
 
-.apic-trace-sm:before {
+.apic-toolbox-sm:before {
 	content:"\f167";
 }
 
 
-.apic-trace:before {
+.apic-trace-sm:before {
 	content:"\f168";
 }
 
 
-.apic-user-edit-sm:before {
+.apic-trace:before {
 	content:"\f169";
 }
 
 
-.apic-user-edit:before {
+.apic-user-edit-sm:before {
 	content:"\f16a";
 }
 
 
-.apic-user:before {
+.apic-user-edit:before {
 	content:"\f16b";
 }
 
 
-.apic-visibility-sm:before {
+.apic-user:before {
 	content:"\f16c";
 }
 
 
-.apic-warning-sm:before {
+.apic-visibility-sm:before {
 	content:"\f16d";
 }
 
 
-.apic-wrench-sm:before {
+.apic-warning-sm:before {
 	content:"\f16e";
 }
 
 
-.apic-wrench:before {
+.apic-wrench-sm:before {
 	content:"\f16f";
+}
+
+
+.apic-wrench:before {
+	content:"\f170";
 }
